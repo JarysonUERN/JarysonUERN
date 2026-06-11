@@ -5,21 +5,32 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat+Brush&pause=1000&color=CA6208&background=3C7EFF00&multiline=true&width=442&height=65&lines=Building%2C+learning%2C+and+shipping.)](https://git.io/typing-svg)
 
 </div>
-
 <h1 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tvc3B4eHR4aHQ2ODhwMW54ajQyem1jOW5mdmtkanpvM3ZqZm93cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fIYsIuyChMwfI0bVSb/giphy.gif" width="120">
   Howdy pal!
 </h1>
 
 
-Bachelor's degree in Computer Science with aspirations to work with data analysis
----------------------------------------------------------------------------------
+### Bachelor's degree in Computer Science with aspirations to work with data analysis
 
-* 🌍  I'm based in Mossoró - RN, Brazil
-* 🖥️  See my portfolio at [github.com/JarysonUERN](http://github.com/JarysonUERN)
-* ✉️  You can contact me at [jarysonsimaum1@gmail.com](mailto:jarysonsimaum1@gmail.com )
-* 🧠  I'm currently learning React Native and typescript
+<table>
+<tr>
+<td>
 
+<img src="https://github-readme-stats.shion.dev/api?username=JarysonUERN&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com/?user=JarysonUERN&theme=dark&hide_border=false" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JarysonUERN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## Known Technologies:
 ### Languages
@@ -56,14 +67,21 @@ Bachelor's degree in Computer Science with aspirations to work with data analysi
 <img height="48" src="https://cdn.simpleicons.org/yarn/2C8EBB" title="Yarn" />
 </div>
 
-![footer](https://gist.githubusercontent.com/JarysonUERN/39747efde05827aff9517fdd1bcfacc9/raw/bc27217cdcf82b21394f37d20c5db456ba4d43a7/gistfile1.svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=35&duration=1&pause=1000&color=F7710C&width=600&height=80&lines=Let's+build+something+together!" alt="Typing SVG" />
+  </a>
+</div>   
 
-### Let's build something together!
-<div align='center'>
+<div align='center' style="margin-right: 30px;">
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarysongomes0@gmail.com)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#PykeXXX)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jaryson-Gomes/)
 </div>
 
+![footer](https://gist.githubusercontent.com/JarysonUERN/39747efde05827aff9517fdd1bcfacc9/raw/bc27217cdcf82b21394f37d20c5db456ba4d43a7/gistfile1.svg)
+
 ![Snake animation](https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/github-contribution-grid-snake-dark.svg)
+
+     ## Sou leso
