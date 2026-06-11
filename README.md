@@ -49,9 +49,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgres,mongodb&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/rubyonrails/CC0000" title="Ruby on Rails" />
 <img height="48" src="https://cdn.simpleicons.org/prisma/2D3748" title="Prisma" />
-<img height="48" src="https://cdn.simpleicons.org/graphql/E10098" title="GraphQL" />
 <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
-<img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000" title="JWT" />
 </div>
 
 ### DevOps & Tools
