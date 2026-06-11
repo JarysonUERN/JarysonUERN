@@ -22,14 +22,14 @@
 </td>
 <td>
 
-<img src="https://streak-stats.demolab.com/?user=JarysonUERN&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JarysonUERN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JarysonUERN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=JarysonUERN&theme=dark&hide_border=false" />
 </p>
 
 ## Known Technologies:
