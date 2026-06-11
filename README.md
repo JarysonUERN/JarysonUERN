@@ -1,17 +1,17 @@
 ![banner](https://gist.githubusercontent.com/JarysonUERN/89ad08f81b00381db6e59aecc84096eb/raw/d9de19bb1aaf96e7fcfa23bace3f4bb822ddd1d8/gistfile1.svg)
 
-  <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat+Brush&pause=1000&color=CA6208&background=3C7EFF00&multiline=true&width=442&height=65&lines=Building%2C+learning%2C+and+shipping.)](https://git.io/typing-svg)
+<div align="center" style="margin-right: 90px;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=40&pause=1000&color=CA6208&background=3C7EFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building%2C+learning%2C+and+shipping.)](https://git.io/typing-svg)
 
 </div>
+  
 <h1 align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tvc3B4eHR4aHQ2ODhwMW54ajQyem1jOW5mdmtkanpvM3ZqZm93cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fIYsIuyChMwfI0bVSb/giphy.gif" width="120">
   Howdy pal!
 </h1>
 
-
-### Bachelor's degree in Computer Science with aspirations to work with data analysis
+###   Computer Student and developer with an emphasis on mobile.
 
 <table>
 <tr>
@@ -84,4 +84,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/github-contribution-grid-snake-dark.svg)
 
-     ## Sou leso
+     #Souleso
