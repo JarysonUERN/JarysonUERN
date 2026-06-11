@@ -1,5 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jaryson
-================================================================================================================================
+![banner](https://gist.githubusercontent.com/JarysonUERN/89ad08f81b00381db6e59aecc84096eb/raw/d9de19bb1aaf96e7fcfa23bace3f4bb822ddd1d8/gistfile1.svg)
+
+  <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat+Brush&pause=1000&color=CA6208&background=3C7EFF00&multiline=true&width=442&height=65&lines=Building%2C+learning%2C+and+shipping.)](https://git.io/typing-svg)
+
+</div>
+
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tvc3B4eHR4aHQ2ODhwMW54ajQyem1jOW5mdmtkanpvM3ZqZm93cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fIYsIuyChMwfI0bVSb/giphy.gif" width="120">
+  Howdy pal!
+</h1>
+
 
 Bachelor's degree in Computer Science with aspirations to work with data analysis
 ---------------------------------------------------------------------------------
@@ -9,19 +20,50 @@ Bachelor's degree in Computer Science with aspirations to work with data analysi
 * ✉️  You can contact me at [jarysonsimaum1@gmail.com](mailto:jarysonsimaum1@gmail.com )
 * 🧠  I'm currently learning React Native and typescript
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-</p>
 
-### Socials
+## Known Technologies:
+### Languages
+<div align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,ruby&theme=dark" />
+</div>
 
-<p align="left"> <a href="https://www.github.com/JarysonUERN" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+### Frontend & Mobile
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
+<img height="48" src="https://cdn.simpleicons.org/expo/ffffff" title="Expo" />
+</div>
 
-<b>My GitHub Stats</b>
+### Backend & Data
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgres,mongodb&theme=dark" />
+<img height="48" src="https://cdn.simpleicons.org/rubyonrails/CC0000" title="Ruby on Rails" />
+<img height="48" src="https://cdn.simpleicons.org/prisma/2D3748" title="Prisma" />
+<img height="48" src="https://cdn.simpleicons.org/graphql/E10098" title="GraphQL" />
+<img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
+<img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000" title="JWT" />
+</div>
 
-<a href="http://www.github.com/JarysonUERN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JarysonUERN&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### DevOps & Tools
+<div align="left">
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,git,vercel,vscode,github,gitlab,figma&theme=dark" />
+<img height="48" src="https://cdn.simpleicons.org/trello/0052CC" title="Trello" />
+  <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/free-canva-icon-svg-download-png-14550998.png?f=webp&w=512" title="Canva" />
+</div>
 
-<a href="https://github.com/JarysonUERN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarysonUERN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Package Managers
+<div align="left">
+<img height="48" src="https://cdn.simpleicons.org/npm/CB3837" title="NPM" />
+<img height="48" src="https://cdn.simpleicons.org/yarn/2C8EBB" title="Yarn" />
+</div>
 
+![footer](https://gist.githubusercontent.com/JarysonUERN/39747efde05827aff9517fdd1bcfacc9/raw/bc27217cdcf82b21394f37d20c5db456ba4d43a7/gistfile1.svg)
+
+### Let's build something together!
+<div align='center'>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarysongomes0@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#PykeXXX)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jaryson-Gomes/)
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/github-contribution-grid-snake-dark.svg)
