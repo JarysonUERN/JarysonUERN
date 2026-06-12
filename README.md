@@ -80,6 +80,13 @@
 
 ![footer](https://gist.githubusercontent.com/JarysonUERN/39747efde05827aff9517fdd1bcfacc9/raw/bc27217cdcf82b21394f37d20c5db456ba4d43a7/gistfile1.svg)
 
-![Snake animation](https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/pacman-contribution-graph.svg">
+</picture>
 
      #Souleso
