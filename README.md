@@ -35,7 +35,7 @@
 ## Known Technologies:
 ### Languages
 <div align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,ruby&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,ruby&theme=dark" />
 </div>
 
 ### Frontend & Mobile
@@ -46,7 +46,7 @@
 
 ### Backend & Data
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/rubyonrails/CC0000" title="Ruby on Rails" />
 <img height="48" src="https://cdn.simpleicons.org/prisma/2D3748" title="Prisma" />
 <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
@@ -54,7 +54,7 @@
 
 ### DevOps & Tools
 <div align="left">
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,git,vercel,vscode,github,gitlab,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,vercel,vscode,github,gitlens,figma&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/trello/0052CC" title="Trello" />
   <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/free-canva-icon-svg-download-png-14550998.png?f=webp&w=512" title="Canva" />
 </div>
