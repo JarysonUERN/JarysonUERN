@@ -40,7 +40,7 @@
 
 ### Frontend & Mobile
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/expo/ffffff" title="Expo" />
 </div>
 
@@ -54,7 +54,7 @@
 
 ### DevOps & Tools
 <div align="left">
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,vercel,vscode,github,gitlens,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,git,vercel,vscode,github,figma&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/trello/0052CC" title="Trello" />
   <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/free-canva-icon-svg-download-png-14550998.png?f=webp&w=512" title="Canva" />
 </div>
