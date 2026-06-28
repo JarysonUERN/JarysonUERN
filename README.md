@@ -35,7 +35,7 @@
 ## Known Technologies:
 ### Languages
 <div align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,ruby&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,ruby&theme=dark" />
 </div>
 
 ### Frontend & Mobile
@@ -89,4 +89,3 @@
        src="https://raw.githubusercontent.com/JarysonUERN/JarysonUERN/output/pacman-contribution-graph.svg">
 </picture>
 
-     #Souleso
