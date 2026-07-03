@@ -2,6 +2,7 @@
 
 <div align="center" style="margin-right: 90px;">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat+Brush&size=40&pause=1000&color=CA6208&background=3C7EFF00&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building%2C+learning%2C+and+shipping.)](https://git.io/typing-svg)
 
 </div>
