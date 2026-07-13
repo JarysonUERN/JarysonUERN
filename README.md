@@ -41,7 +41,7 @@
 
 ### Frontend & Mobile
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,svelte,nextjs,html,css,tailwind&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/expo/ffffff" title="Expo" />
 </div>
 
@@ -51,6 +51,7 @@
 <img height="48" src="https://cdn.simpleicons.org/rubyonrails/CC0000" title="Ruby on Rails" />
 <img height="48" src="https://cdn.simpleicons.org/prisma/2D3748" title="Prisma" />
 <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
+  <img height="48" src="https://avatars.githubusercontent.com/u/3210273?v=4&s=160" title="Hanami" />
 </div>
 
 ### DevOps & Tools
